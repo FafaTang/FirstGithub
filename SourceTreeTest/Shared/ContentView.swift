@@ -7,17 +7,19 @@
 
 import SwiftUI
 
+func0()
+
 struct ContentView: View {
-    var body: some View {
-        Text("Hello, world!")
-            .padding()
-        Text("test1")
-            .padding()
-    }
+    
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
+    
 }
+
+func()
+
+func1()
